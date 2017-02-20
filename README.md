@@ -7,13 +7,12 @@
 
 ##项目效果
 1.  屏幕大于800px
-
+<div align=center>
 ![大屏幕下的显示效果](/src/img/Responsive-l.png)
+</div>
 2.  屏幕大于480px ,小于800px
-
-![中屏幕下的显示效果](/src/img/Responsive-m.png)
-
+<div align=center><img src="/src/img/Responsive-m.png"/></div>
 3.  屏幕小于480px
-
+<div align=center>
 ![小屏幕下的显示效果](/src/img/Responsive-s.png)
-
+</div>
