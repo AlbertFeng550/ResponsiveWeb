@@ -7,9 +7,13 @@
 
 ##项目效果
 1.  屏幕大于800px
+
 ![大屏幕下的显示效果](/src/img/Responsive-l.png)
 2.  屏幕大于480px ,小于800px
+
 ![中屏幕下的显示效果](/src/img/Responsive-m.png)
+
 3.  屏幕小于480px
+
 ![小屏幕下的显示效果](/src/img/Responsive-s.png)
 
