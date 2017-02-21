@@ -173,7 +173,7 @@ header .main{
 
 header .main .brand{
     float: left;
-    padding: 1rem 1.5rem;
+    padding: 1rem;
 }
 
 header .main ul{
@@ -220,7 +220,7 @@ header .main ul li a.active{
     }
 
     header .main ul li a {
-        padding: 0 1.5rem;
+        padding: 0 1rem;
     }
 }
 
@@ -254,7 +254,7 @@ header .main ul li a.active{
 }
 
 .trans-content{
-    max-width: 90%;
+    max-width: 95%;
     margin: 0 auto;
     font-size: 1.5rem;
 }
@@ -288,7 +288,7 @@ header .main ul li a.active{
 
 .trans-report a{
     display: inline-block;
-    padding: 1rem;
+    padding: 1rem 0;
     line-height: 3rem;
     color: #fff;
 }
