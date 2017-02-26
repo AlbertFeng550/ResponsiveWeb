@@ -1,9 +1,11 @@
 #ResponsiveWeb
 ##项目介绍
-一个简单的[响应式页面](https://albertfeng550.github.io/ResponsiveWeb/src/index.html)（不支持ie8及以下）
-##所用插件
-1.  OwlCarousel2:实现广告轮播
-2.  Picturefill:解决ie9对&lt;picture&gt;元素不支持的问题
+一个[响应式页面](https://albertfeng550.github.io/ResponsiveWeb/src/index.html)（不支持ie8及以下）
+</br>利用媒体查询来进行响应式设计
+
+##技术选型
+1.  广告轮播：OwlCarousel2
+2.  &lt;picture&gt;标签兼容性问题：Picturefill.js
 
 ##项目效果
 1.  屏幕大于800px

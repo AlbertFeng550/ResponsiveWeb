@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2185">
-              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="589">
+              <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="173" column="20" lean-forward="true" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+            <state relative-caret-position="-6706">
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -48,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -143,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,13 +183,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ResponsiveWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ResponsiveWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ResponsiveWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ResponsiveWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,12 +341,18 @@
       <workItem from="1487586689928" duration="1100000" />
       <workItem from="1487594098834" duration="1585000" />
       <workItem from="1487597533218" duration="3600000" />
-      <workItem from="1487644076119" duration="2264000" />
+      <workItem from="1487644076119" duration="2738000" />
+      <workItem from="1487651329813" duration="618000" />
+      <workItem from="1487657327735" duration="135000" />
+      <workItem from="1487676194622" duration="1599000" />
+      <workItem from="1488101902369" duration="635000" />
+      <workItem from="1488120266816" duration="134000" />
+      <workItem from="1488125229668" duration="542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65857000" />
+    <option name="totallyTimeSpent" value="69994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -640,6 +682,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/login.html" />
+    <entry file="file://$PROJECT_DIR$/src/humans.txt" />
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -656,25 +705,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/login.html" />
-    <entry file="file://$PROJECT_DIR$/src/humans.txt" />
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2185">
-          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="589">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="173" column="20" lean-forward="true" selection-start-line="173" selection-start-column="20" selection-end-line="173" selection-end-column="20" />
+        <state relative-caret-position="-6706">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -682,8 +724,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
