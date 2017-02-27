@@ -2,8 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1910be79-31a2-468c-8173-042ed217e977" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Responsive-l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Responsive-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/Responsive-s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad001-l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad001-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad002-l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad002-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad002.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad003-l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad003-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/ad003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/app-l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/app-l@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/app-m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/app-m@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/app@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/cert1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/cert2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/login-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/logo.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/logo@1x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/img/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/assets/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/assets/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/assets/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/assets/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/assets/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/assets/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/owl.carousel.2.1.0/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/picturefill.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,32 +66,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6706">
-              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="76">
-                <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -57,21 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/vendor/jquery.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="190">
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -155,78 +167,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ResponsiveWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,12 +291,13 @@
       <workItem from="1487676194622" duration="1599000" />
       <workItem from="1488101902369" duration="635000" />
       <workItem from="1488120266816" duration="134000" />
-      <workItem from="1488125229668" duration="542000" />
+      <workItem from="1488125229668" duration="1140000" />
+      <workItem from="1488199460532" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69994000" />
+    <option name="totallyTimeSpent" value="71252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -416,14 +361,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/vendor/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -715,7 +652,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6706">
+        <state relative-caret-position="456">
           <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
@@ -725,10 +662,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="76">
-            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
