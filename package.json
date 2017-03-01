@@ -1,0 +1,22 @@
+{
+  "name": "responsiveweb",
+  "version": "1.0.0",
+  "description": "一个[响应式页面](https://albertfeng550.github.io/ResponsiveWeb/src/index.html)（不支持ie8及以下）\r </br>利用媒体查询来进行响应式设计",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertFeng550/ResponsiveWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertFeng550/ResponsiveWeb/issues"
+  },
+  "homepage": "https://github.com/AlbertFeng550/ResponsiveWeb#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

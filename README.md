@@ -2,7 +2,7 @@
 ##项目介绍
 一个[响应式页面](https://albertfeng550.github.io/ResponsiveWeb/src/index.html)（不支持ie8及以下）
 </br>利用媒体查询来进行响应式设计
-
+</br>dist文件夹内是经过gulp自动化构建后的工程
 ##技术选型
 1.  广告轮播：OwlCarousel2
 2.  &lt;picture&gt;标签兼容性问题：Picturefill.js
